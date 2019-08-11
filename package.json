@@ -1,0 +1,22 @@
+{
+  "name": "interactive-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiliamzali/interactive-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiliamzali/interactive-map/issues"
+  },
+  "homepage": "https://github.com/camiliamzali/interactive-map#readme",
+  "dependencies": {
+    "leaflet": "^1.5.1"
+  }
+}
