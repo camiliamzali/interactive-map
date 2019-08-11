@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/camiliamzali/interactive-map#readme",
   "dependencies": {
-    "leaflet": "^1.5.1"
+    "leaflet": "^1.5.1",
+    "nodemon": "^1.19.1"
   }
 }
