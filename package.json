@@ -2,9 +2,11 @@
   "name": "interactive-map",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/camiliamzali/interactive-map#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "leaflet": "^1.5.1",
     "nodemon": "^1.19.1"
   }
